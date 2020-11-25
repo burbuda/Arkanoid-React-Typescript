@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arkanoid-React-Typescript/static/css/main.6672fc23.chunk.css",
+    "main.js": "/Arkanoid-React-Typescript/static/js/main.03535eec.chunk.js",
+    "main.js.map": "/Arkanoid-React-Typescript/static/js/main.03535eec.chunk.js.map",
+    "runtime-main.js": "/Arkanoid-React-Typescript/static/js/runtime-main.39551e6b.js",
+    "runtime-main.js.map": "/Arkanoid-React-Typescript/static/js/runtime-main.39551e6b.js.map",
+    "static/js/2.07e95e72.chunk.js": "/Arkanoid-React-Typescript/static/js/2.07e95e72.chunk.js",
+    "static/js/2.07e95e72.chunk.js.map": "/Arkanoid-React-Typescript/static/js/2.07e95e72.chunk.js.map",
+    "static/js/3.7e73f666.chunk.js": "/Arkanoid-React-Typescript/static/js/3.7e73f666.chunk.js",
+    "static/js/3.7e73f666.chunk.js.map": "/Arkanoid-React-Typescript/static/js/3.7e73f666.chunk.js.map",
+    "index.html": "/Arkanoid-React-Typescript/index.html",
+    "static/css/main.6672fc23.chunk.css.map": "/Arkanoid-React-Typescript/static/css/main.6672fc23.chunk.css.map",
+    "static/js/2.07e95e72.chunk.js.LICENSE.txt": "/Arkanoid-React-Typescript/static/js/2.07e95e72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39551e6b.js",
+    "static/js/2.07e95e72.chunk.js",
+    "static/css/main.6672fc23.chunk.css",
+    "static/js/main.03535eec.chunk.js"
+  ]
+}
